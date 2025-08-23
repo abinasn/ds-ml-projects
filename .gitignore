@@ -2,3 +2,6 @@ output/
 taxi_zones/
 trip_records/
 datasets/
+artifacts/
+myenv/
+*_log.txt
