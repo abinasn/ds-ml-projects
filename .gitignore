@@ -5,3 +5,12 @@ datasets/
 artifacts/
 myenv/
 *_log.txt
+*.csv
+*.xml
+*.jpg
+*.png
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
